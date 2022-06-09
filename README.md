@@ -1,1 +1,8 @@
-![irbds-contributions](https://activity-graph.herokuapp.com/graph?username=irbds&bg_color=010409&line=8B0558&point=058B38&area=true&area_color=05588B)
+<div align="center">
+		
+<!-- ![Anurag's GitHub stats] -->
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=irbds&count_private=true&show_icons=true&theme=github_dark">
+<!-- ![Top Langs] -->
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irbds&langs_count=5&layout=compact&theme=github_dark">
+</div>
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
